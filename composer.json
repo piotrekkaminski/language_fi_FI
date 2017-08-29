@@ -1,9 +1,9 @@
 {
-    "name": "magento2translations/language_fi_fi",
+    "name": "piotrekkaminski/language_fi_fi",
     "description": "Finnish (suomi) Magento2 Language Pack (fi_FI) - Crowdsourced",
     "homepage": "http://magento2translations.github.io/",
     "license": [
-        "OSL-3.0",
+        "OSL-3.0"
     ],
     "authors": [
         {
